@@ -20,6 +20,6 @@ I researched many printers I could make including this one for the basic idea -
 Researched some more parts and...
 I made this mindmap for my printer <img src="https://cdn.hack.pet/slackcdn/edb8cf33ad4d4399f83603ccd04398b3.png">
 
-## And this is the end of DAY 2!! <i>I am so sleep deprived :( </i>
+## And this is the end of DAY 1!! <i>I am so sleep deprived :( </i>
 
 <hr>
