@@ -10,7 +10,7 @@ BTW I have an Ender 3 V3 KE <i>really fast</i>
 <hr>
 
 ## Day 1 (13th Feb 2025) :
-## Total time 1 hour!!! Started from 6pm
+## Total time 1.5 hour!!! Started from 6pm
 ### 1st 30 mins <i>Off to a great start!</i>
 I researched many printers I could make including this one for the basic idea - 
 
@@ -28,5 +28,11 @@ I made this mindmap for my printer <img src="https://cdn.hack.pet/slackcdn/edb8c
 ## Total Time 2 Hours!!! Started from 3:15pm
 
 Designing and finding the frame! I am using some extrusions!
-I researched for a long <i>Not kidding :(</i> Time for extrusion cheap and good quality with fast shipping and I found these-
+I researched for a long time.. <i>Not kidding :(</i> Time for extrusion frames cheap and good quality with fast shipping and I found these-
+https://www.3dprintronics.com/products/aluminium-extrusions
+<b>Researched the SKR Mainboard -</b> 
+https://robu.in/product/bigtreetech-skr-v1-4-control-board/?gad_source=4&gclid=CjwKCAiAk8G9BhA0EiwAOQxmfhkp0i08jJYeySLA4vNOAmef0a8bFC9ivwNMua4mY5DsqRokWoi2nBoCKCMQAvD_BwE
+I had to figure out how does UART Stepper motors are compatible with it also.
+The motors(stepper) - 
+https://robocraze.com/products/17hs4401-nema17-stepper-motor-40mm?variant=42490709246176&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&campaignid=21586511453&adgroupid=&keyword=&device=c&gad_source=4&gclid=CjwKCAiAk8G9BhA0EiwAOQxmfgMX85uQqnOZMAvCdYdmVo2krWNdqP1vCMUg88csETRoiRnmNA9iIxoCtbAQAvD_BwE
 
