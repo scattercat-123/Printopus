@@ -43,12 +43,16 @@ https://robocraze.com/products/17hs4401-nema17-stepper-motor-40mm?variant=424907
 
 I had to research the skr board first because many pins are very confusing. I decided to go with the btt skr v1.4 board and I found this very useful link - 
 [Official site info](https://biqu.equipment/products/bigtreetech-skr-v1-4-skr-v1-4-turbo-control-board-tmc2209-tmc2208-eeprom-v1-0-exp-mot-v1-0-3d-printer-parts-for-ender-3?_pos=1&_sid=a4a30553b&_ss=r&variant=31898702970978)
+
 Surprisingly you also get a rubber duck! yay!
 <img src="https://cdn.hack.pet/slackcdn/e3cbb84e79686741e227042714625f6e.png">
 Also THANKS A LOT to whoever made this video
 https://www.youtube.com/watch?v=hRpWtx3HCGM
+
 It helped me choose the stepper motor drivers because I did know if I needed uart and what jumpers I needed to use on the board! This is very confusing.
 I am also using a touch screen - tft24
+
 Now I have lots of things on my mind that I have to buy so I decided to start working with the bom sheet!
+
 Here is the unfinished work of the spreadsheet:
 https://docs.google.com/spreadsheets/d/1NrEE28tm0ULvl5nzLH3Xo_gENOVdaQEKzp27CuxsBW8/edit?usp=sharing
