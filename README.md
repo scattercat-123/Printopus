@@ -9,6 +9,7 @@ Open the journey over here - [Printopus-Journey.md](Printopus-Journey.md)
   <li>Since most of the printers are mostly like a machine which has to just print things I am planning to add a user interactive game in the printer itself with the touchscreen!</li>
   <li>Automatic nozzle cleaner with silicone pads</li>
 </ul>
+
 ## Extras!!
 
 <i>Random photos of the journey!!!(<b>skibidi</b>)</i>
