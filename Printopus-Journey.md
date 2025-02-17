@@ -56,3 +56,15 @@ Now I have lots of things on my mind that I have to buy so I decided to start wo
 
 Here is the unfinished work of the spreadsheet:
 https://docs.google.com/spreadsheets/d/1NrEE28tm0ULvl5nzLH3Xo_gENOVdaQEKzp27CuxsBW8/edit?usp=sharing
+
+## Day 5 (17th Feb 2025) My High Fever 🤒 Still there :(
+## Total Time 2 Hours!!! Started From 2 pm
+Started to update the [BOM](https://docs.google.com/spreadsheets/d/1NrEE28tm0ULvl5nzLH3Xo_gENOVdaQEKzp27CuxsBW8/edit?usp=sharing)
+
+Researched about the Bowden style extruder and where to buy them.
+
+I will be using A V6 Hotend:
+<img src="https://cdn.hackclubber.dev/slackcdn/1023987ac4cff64e71d44decd86fb337.png">
+
+And I will be using a dual drive extruder:
+<img src="https://cdn.hackclubber.dev/slackcdn/80d352ae4fa6673a5d50bccc315c9b15.png">
