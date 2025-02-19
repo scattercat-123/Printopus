@@ -66,5 +66,22 @@ Researched about the Bowden style extruder and where to buy them.
 I will be using A V6 Hotend:
 <img src="https://cdn.hackclubber.dev/slackcdn/1023987ac4cff64e71d44decd86fb337.png">
 
-And I will be using a dual drive extruder:
+I will be using a dual-drive extruder:
 <img src="https://cdn.hackclubber.dev/slackcdn/80d352ae4fa6673a5d50bccc315c9b15.png">
+
+## Day 6 (18th Feb 2025) Fever 🤒 Still there :(
+## Total Time 1 Hours!!! Started From 2 pm
+
+Added many things to the BOM! I found many cheaper sites so I had to update them all!
+Did many other stuff
+
+## Day 7 (19th Feb 2025) I am feeling better than before!
+## Total time 2 Hours!!! Started from 1 pm
+
+Today I started working on the 3D model of my printer since I was bored to hell updating the BOM every day!
+
+First, I needed to design the 4040 Extrusions! Luckily I found them on GrabCAD. Now I will make the Frame
+
+Yeah i had to watch so many tutorials and i was doing everything manually debugging a lot. Now i realized how bad am i :( . But i stil made it!
+
+<img src="https://cdn.hack.pet/slackcdn/95f72af7ebec8d8711e66eded6e18ea1.png">
