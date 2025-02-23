@@ -3,7 +3,7 @@ Made by: Atharv Sharma aka scattercat_123 | Slack id = [scattercat_123](https://
 
 Repository link: [Click mE!](https://github.com/scattercat-123/Printopus)
 
-Total hours so far: 7.5hrs
+Total hours so far: 15.5hrs
 
 BTW I have an Ender 3 V3 KE <i>really fast</i>
 
@@ -82,6 +82,11 @@ Today I started working on the 3D model of my printer since I was bored to hell 
 
 First, I needed to design the 4040 Extrusions! Luckily I found them on GrabCAD. Now I will make the Frame
 
-Yeah i had to watch so many tutorials and i was doing everything manually debugging a lot. Now i realized how bad am i :( . But i stil made it!
+Yeah, I had to watch so many tutorials and I was doing everything manually debugging a lot. Now I realize how bad I am :(. But I still made it!
 
 <img src="https://cdn.hack.pet/slackcdn/95f72af7ebec8d8711e66eded6e18ea1.png">
+
+## Day 8 to 11 (20 to 23rd Feb 2025) Sorry to lazy to write everything!
+## Total time 3 Hours !!! 1 Hour Everyday
+
+I worked on the cad files everyday and since i am a noob in fusion it took me some time to make the finl result of the frame with the heated!
