@@ -89,4 +89,7 @@ Yeah, I had to watch so many tutorials and I was doing everything manually debug
 ## Day 8 to 11 (20 to 23rd Feb 2025) Sorry to lazy to write everything!
 ## Total time 3 Hours !!! 1 Hour Everyday
 
-I worked on the cad files everyday and since i am a noob in fusion it took me some time to make the finl result of the frame with the heated!
+I worked on the cad files every day and since I am a noob in fusion it took me some time to make the final result of the frame with the heated!
+
+I made this till now NOT DONE!
+<img src="https://cloud-4e63ja77b-hack-club-bot.vercel.app/0image.png">
