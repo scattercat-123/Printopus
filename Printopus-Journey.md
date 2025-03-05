@@ -3,7 +3,7 @@ Made by: Atharv Sharma aka scattercat_123 | Slack id = [scattercat_123](https://
 
 Repository link: [Click mE!](https://github.com/scattercat-123/Printopus)
 
-Total hours so far: 15.5hrs
+Total hours so far: 22.25 hours
 
 BTW I have an Ender 3 V3 KE <i>really fast</i>
 
@@ -86,10 +86,12 @@ Yeah, I had to watch so many tutorials and I was doing everything manually debug
 
 <img src="https://cdn.hack.pet/slackcdn/95f72af7ebec8d8711e66eded6e18ea1.png">
 
-## Day 8 to 11 (20 to 23rd Feb 2025) Sorry to lazy to write everything!
-## Total time 3 Hours !!! 1 Hour Everyday
+## Day 8 to 11 (20 to 5th March 2025) Sorry to lazy to write everything!
+## Total time 9.75 Hours !!! 45 mins Everyday (i had to make a routine bruh)
 
 I worked on the cad files every day and since I am a noob in fusion it took me some time to make the final result of the frame with the heated!
 
 I made this till now NOT DONE!
 <img src="https://cloud-4e63ja77b-hack-club-bot.vercel.app/0image.png">
+
+I will soon upload the newer cad file!
