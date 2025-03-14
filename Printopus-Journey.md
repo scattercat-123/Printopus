@@ -3,7 +3,7 @@ Made by: Atharv Sharma aka scattercat_123 | Slack id = [scattercat_123](https://
 
 Repository link: [Click mE!](https://github.com/scattercat-123/Printopus)
 
-Total hours so far: 22.25 hours
+Total hours so far: 34 hours!!
 
 BTW I have an Ender 3 V3 KE <i>really fast</i>
 
@@ -86,7 +86,7 @@ Yeah, I had to watch so many tutorials and I was doing everything manually debug
 
 <img src="https://cdn.hack.pet/slackcdn/95f72af7ebec8d8711e66eded6e18ea1.png">
 
-## Day 8 to 11 (20 to 5th March 2025) Sorry to lazy to write everything!
+## Day 8 to 19 (20 to 13th March 2025) Sorry to lazy to write everything!
 ## Total time 9.75 Hours !!! 45 mins Everyday (i had to make a routine bruh)
 
 I worked on the cad files every day and since I am a noob in fusion it took me some time to make the final result of the frame with the heated!
@@ -95,3 +95,25 @@ I made this till now NOT DONE!
 <img src="https://cloud-4e63ja77b-hack-club-bot.vercel.app/0image.png">
 
 I will soon upload the newer cad file!
+
+## Day 21 (14th March 2025)
+## Total time 3 hours 45 mins(i grinded)
+
+Yo guys, wassup Ik i haven't updated for a long time since my parents only gave me 45 minutes to work on this cause I have exams, and I am trying to finish everything before my main exams come!!!
+
+SO THIS IS THE UPDATE!
+I havent built a printer so this is a big thing for me so In the last few days and these days I WATCHES VERY VIDEO on this series - https://youtube.com/playlist?list=PLP-VDZmS6bFo6qyPS8MyBFKqepQHpjCEB&si=mJB7cQvZAObcFmbE Because why not I am definetly usng this mainboard and since we ARE GOING to RMRRF which have people building cool stuff like 6 second nozzle changes even I wanted to ttry to implement something cool. Hence, I needed to know what my mainboard could do!
+
+Now for the main updates i did today is I FINISHED THE Y AXIS (and i have become noob -> master in fusion 360) <- wow so cringe And Yeah i did everything manually I DINT even KNOW AALIGN TOOL EXISTED. I ALWAYS MANUALLY Made everything fit together. But now I am done with the y-axis. I promise everything will be faster from now on because I'm like 70% done less goo.
+
+Here is a photo of what I finished 
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/30a417ba20dcbe8eca39584449c6ae24da78e02f_image.png">
+
+And also i have almost finished my shitty BOM here is a sneak peek:
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/f460a81e4a50cfa1f8710232cfcd2f73e88b81fe_image.png"
+
+I don't know but my fusion is definitely not organized, bruh :(
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/aa41cdcb34d599a9370dfc7fa50c0a3f784af138_image.png">
+
+Thanks, ppl more updates soon!
+Sneak peak: working on a good PCB
