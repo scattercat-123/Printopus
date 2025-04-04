@@ -3,8 +3,7 @@ Made by: Atharv Sharma aka scattercat_123 | Slack id = [scattercat_123](https://
 
 Repository link: [Click mE!](https://github.com/scattercat-123/Printopus)
 
-Total hours so far: calculating!!
-
+Total hours so far: <b>75+<\b>
 BTW I have an Ender 3 V3 KE <i>really fast</i>
 
 <hr>
