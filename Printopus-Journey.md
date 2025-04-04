@@ -8,6 +8,7 @@ Total hours so far: calculating!!
 BTW I have an Ender 3 V3 KE <i>really fast</i>
 
 <hr>
+
 ## Before we Start!! :
 What is special in this printer:
 
@@ -19,6 +20,7 @@ What is special in this printer:
 * My printer looks sci-fi with a Sci-fi Themed PRINTER HOLDer!! woohoo
 
 <hr>
+
 ## Day 1 (13th Feb 2025) :
 ## Total time 1.5 hour!!! Started from 6pm
 ### 1st 30 mins <i>Off to a great start!</i>
