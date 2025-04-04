@@ -1,0 +1,40 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.99.0-3458-gcd40f6046b*%
+%TF.CreationDate,2025-04-04T18:06:16+05:30*%
+%TF.ProjectId,Lighting for printopus,4c696768-7469-46e6-9720-666f72207072,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Copper,L2,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.99.0-3458-gcd40f6046b) date 2025-04-04 18:06:16*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ComponentPad*%
+%ADD10C,1.371600*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD11C,1.400000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.P,C1,1*%
+%TO.N,Net-(LED1-VDD)*%
+X234500000Y-89500000D03*
+%TO.P,C1,2*%
+%TO.N,Net-(LED1-VSS)*%
+X234500000Y-93000001D03*
+%TD*%
+D11*
+%TO.P,J1,1,1*%
+%TO.N,Net-(LED1-VDD)*%
+X246000000Y-87850000D03*
+%TO.P,J1,2,2*%
+%TO.N,Net-(LED17-DIN)*%
+X246000000Y-90350000D03*
+%TO.P,J1,3,3*%
+%TO.N,Net-(LED1-VSS)*%
+X246000000Y-92850000D03*
+%TD*%
+M02*
