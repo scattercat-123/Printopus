@@ -12,7 +12,7 @@ Open the journey over here - [Printopus-Journey.md](Printopus-Journey.md)
 
 ## Extras!!
 
-<i>Random photos of the journey!!!(<b>skibidi</b>)</i>
+<i>Random photos of the journey!!</i>
 <img src="https://cdn.hack.pet/slackcdn/edb8cf33ad4d4399f83603ccd04398b3.png">
 <img src="https://cdn.hack.pet/slackcdn/e3cbb84e79686741e227042714625f6e.png">
 <img src="https://cdn.hackclubber.dev/slackcdn/1023987ac4cff64e71d44decd86fb337.png">
